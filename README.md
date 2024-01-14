@@ -1,14 +1,14 @@
 # Monique Ferraz
 
-Bem-vindo ao meu espaço de aprendizado no GitHub!💻
-Estou dando os primeiros passos no mundo da programação, iniciando meu aprendizado com a liguagem C#.
-Este repositório é um registro dos meus progressos, desafios e descobertas enquanto navego por esse novo universo.
+### Bem-vindo ao meu espaço de aprendizado no GitHub!💻
+### Estou dando os primeiros passos no mundo da programação, iniciando meu aprendizado com a liguagem C#.
+### Este repositório é um registro dos meus progressos, desafios e descobertas enquanto navego por esse novo universo.
 
-Aqui você encontrará meus projetos Iniciais em C#, representando meus primeiros passos na linguagem.
-São pequenos exercícios e desafios para consolidar meus conhecimentos.
+### Aqui você encontrará meus projetos Iniciais em C#, representando meus primeiros passos na linguagem.
+### São pequenos exercícios e desafios para consolidar meus conhecimentos.
 
-Este repositório funciona como um diário aberto do meu aprendizado.
-Não hesite em abrir issues se tiver dúvidas ou sugestões. Estou aqui para aprender, e a colaboração é fundamental nessa jornada.
+### Este repositório funciona como um diário aberto do meu aprendizado.
+### Não hesite em abrir issues se tiver dúvidas ou sugestões. Estou aqui para aprender, e a colaboração é fundamental nessa jornada.
 
 - Conhecimentos
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
